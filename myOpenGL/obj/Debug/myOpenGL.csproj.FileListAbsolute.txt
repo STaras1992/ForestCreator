@@ -1,0 +1,45 @@
+C:\לימודים\שנה ב\summer\grafics\P5\3Dtransformations\myOpenGL\bin\Debug\myOpenGL.exe
+C:\לימודים\שנה ב\summer\grafics\P5\3Dtransformations\myOpenGL\bin\Debug\myOpenGL.pdb
+C:\לימודים\שנה ב\summer\grafics\P5\3Dtransformations\myOpenGL\obj\Debug\myOpenGL.csprojAssemblyReference.cache
+C:\לימודים\שנה ב\summer\grafics\P5\3Dtransformations\myOpenGL\obj\Debug\myOpenGL.Form1.resources
+C:\לימודים\שנה ב\summer\grafics\P5\3Dtransformations\myOpenGL\obj\Debug\myOpenGL.Properties.Resources.resources
+C:\לימודים\שנה ב\summer\grafics\P5\3Dtransformations\myOpenGL\obj\Debug\myOpenGL.csproj.GenerateResource.cache
+C:\לימודים\שנה ב\summer\grafics\P5\3Dtransformations\myOpenGL\obj\Debug\myOpenGL.csproj.CoreCompileInputs.cache
+C:\לימודים\שנה ב\summer\grafics\P5\3Dtransformations\myOpenGL\obj\Debug\myOpenGL.exe
+C:\לימודים\שנה ב\summer\grafics\P5\3Dtransformations\myOpenGL\obj\Debug\myOpenGL.pdb
+C:\לימודים\שנה ב\קיץ\גרפיקה\Project\Grafics  project\3Dtransformations\myOpenGL\bin\Debug\myOpenGL.exe
+C:\לימודים\שנה ב\קיץ\גרפיקה\Project\Grafics  project\3Dtransformations\myOpenGL\bin\Debug\myOpenGL.pdb
+C:\לימודים\שנה ב\קיץ\גרפיקה\Project\Grafics  project\3Dtransformations\myOpenGL\obj\Debug\myOpenGL.csprojAssemblyReference.cache
+C:\לימודים\שנה ב\קיץ\גרפיקה\Project\Grafics  project\3Dtransformations\myOpenGL\obj\Debug\myOpenGL.Form1.resources
+C:\לימודים\שנה ב\קיץ\גרפיקה\Project\Grafics  project\3Dtransformations\myOpenGL\obj\Debug\myOpenGL.Properties.Resources.resources
+C:\לימודים\שנה ב\קיץ\גרפיקה\Project\Grafics  project\3Dtransformations\myOpenGL\obj\Debug\myOpenGL.csproj.GenerateResource.cache
+C:\לימודים\שנה ב\קיץ\גרפיקה\Project\Grafics  project\3Dtransformations\myOpenGL\obj\Debug\myOpenGL.csproj.CoreCompileInputs.cache
+C:\לימודים\שנה ב\קיץ\גרפיקה\Project\Grafics  project\3Dtransformations\myOpenGL\obj\Debug\myOpenGL.exe
+C:\לימודים\שנה ב\קיץ\גרפיקה\Project\Grafics  project\3Dtransformations\myOpenGL\obj\Debug\myOpenGL.pdb
+C:\לימודים\שנה ב\summer\grafics\project\3Dtransformations\myOpenGL\bin\Debug\myOpenGL.exe
+C:\לימודים\שנה ב\summer\grafics\project\3Dtransformations\myOpenGL\bin\Debug\myOpenGL.pdb
+C:\לימודים\שנה ב\summer\grafics\project\3Dtransformations\myOpenGL\obj\Debug\myOpenGL.csprojAssemblyReference.cache
+C:\לימודים\שנה ב\summer\grafics\project\3Dtransformations\myOpenGL\obj\Debug\myOpenGL.Form1.resources
+C:\לימודים\שנה ב\summer\grafics\project\3Dtransformations\myOpenGL\obj\Debug\myOpenGL.Properties.Resources.resources
+C:\לימודים\שנה ב\summer\grafics\project\3Dtransformations\myOpenGL\obj\Debug\myOpenGL.csproj.GenerateResource.cache
+C:\לימודים\שנה ב\summer\grafics\project\3Dtransformations\myOpenGL\obj\Debug\myOpenGL.csproj.CoreCompileInputs.cache
+C:\לימודים\שנה ב\summer\grafics\project\3Dtransformations\myOpenGL\obj\Debug\myOpenGL.exe
+C:\לימודים\שנה ב\summer\grafics\project\3Dtransformations\myOpenGL\obj\Debug\myOpenGL.pdb
+C:\לימודים\שנה ב\קיץ\גרפיקה\Project\Grafics  project\9.9\9.9-20190909T165139Z-001\9.9\project\3Dtransformations\myOpenGL\bin\Debug\myOpenGL.exe
+C:\לימודים\שנה ב\קיץ\גרפיקה\Project\Grafics  project\9.9\9.9-20190909T165139Z-001\9.9\project\3Dtransformations\myOpenGL\bin\Debug\myOpenGL.pdb
+C:\לימודים\שנה ב\קיץ\גרפיקה\Project\Grafics  project\9.9\9.9-20190909T165139Z-001\9.9\project\3Dtransformations\myOpenGL\obj\Debug\myOpenGL.csprojAssemblyReference.cache
+C:\לימודים\שנה ב\קיץ\גרפיקה\Project\Grafics  project\9.9\9.9-20190909T165139Z-001\9.9\project\3Dtransformations\myOpenGL\obj\Debug\myOpenGL.Form1.resources
+C:\לימודים\שנה ב\קיץ\גרפיקה\Project\Grafics  project\9.9\9.9-20190909T165139Z-001\9.9\project\3Dtransformations\myOpenGL\obj\Debug\myOpenGL.Properties.Resources.resources
+C:\לימודים\שנה ב\קיץ\גרפיקה\Project\Grafics  project\9.9\9.9-20190909T165139Z-001\9.9\project\3Dtransformations\myOpenGL\obj\Debug\myOpenGL.csproj.GenerateResource.cache
+C:\לימודים\שנה ב\קיץ\גרפיקה\Project\Grafics  project\9.9\9.9-20190909T165139Z-001\9.9\project\3Dtransformations\myOpenGL\obj\Debug\myOpenGL.csproj.CoreCompileInputs.cache
+C:\לימודים\שנה ב\קיץ\גרפיקה\Project\Grafics  project\9.9\9.9-20190909T165139Z-001\9.9\project\3Dtransformations\myOpenGL\obj\Debug\myOpenGL.exe
+C:\לימודים\שנה ב\קיץ\גרפיקה\Project\Grafics  project\9.9\9.9-20190909T165139Z-001\9.9\project\3Dtransformations\myOpenGL\obj\Debug\myOpenGL.pdb
+C:\לימודים\שנה ב\summer\grafics\project\2.11\3Dtransformations\myOpenGL\bin\Debug\myOpenGL.exe
+C:\לימודים\שנה ב\summer\grafics\project\2.11\3Dtransformations\myOpenGL\bin\Debug\myOpenGL.pdb
+C:\לימודים\שנה ב\summer\grafics\project\2.11\3Dtransformations\myOpenGL\obj\Debug\myOpenGL.csprojAssemblyReference.cache
+C:\לימודים\שנה ב\summer\grafics\project\2.11\3Dtransformations\myOpenGL\obj\Debug\myOpenGL.Form1.resources
+C:\לימודים\שנה ב\summer\grafics\project\2.11\3Dtransformations\myOpenGL\obj\Debug\myOpenGL.Properties.Resources.resources
+C:\לימודים\שנה ב\summer\grafics\project\2.11\3Dtransformations\myOpenGL\obj\Debug\myOpenGL.csproj.GenerateResource.cache
+C:\לימודים\שנה ב\summer\grafics\project\2.11\3Dtransformations\myOpenGL\obj\Debug\myOpenGL.csproj.CoreCompileInputs.cache
+C:\לימודים\שנה ב\summer\grafics\project\2.11\3Dtransformations\myOpenGL\obj\Debug\myOpenGL.exe
+C:\לימודים\שנה ב\summer\grafics\project\2.11\3Dtransformations\myOpenGL\obj\Debug\myOpenGL.pdb
