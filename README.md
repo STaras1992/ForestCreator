@@ -3,7 +3,6 @@ OpenGl project for creating different trees.
 Developed with C# OpenGl librarys and WinForms.
 
 ![](screenshots/screen1.png)
-![](screenshots/screen1.png)
 <br>
 <h4>Reflection <h4>
   
